@@ -23,6 +23,7 @@
 
 ### OS
 <img align="left" alt="Linux" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <br />
 
 ### Project Management
