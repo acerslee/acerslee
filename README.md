@@ -28,6 +28,7 @@
 
 ### OS
 <img align="left" alt="Linux" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<br />
 
 ### Project Management
 <img align="left" alt="Trello" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
