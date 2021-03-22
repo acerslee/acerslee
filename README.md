@@ -1,4 +1,5 @@
 ### Hi there 👋
+Here's a list of what I've currently have experience with.
 
 ### Development
 <img align="left" alt="HTML5" width="30px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
