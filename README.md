@@ -36,6 +36,8 @@ Here's a list of what I've currently have experience with.
 ### 🌱 I’m currently learning (or want to learn)...
 Gatsby.js
 <br />
+Next.js
+<br />
 TypeScript
 <br />
 Firebase
