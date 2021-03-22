@@ -33,7 +33,7 @@ Here's a list of what I've currently have experience with.
 <br />
 <br />
 
-- 🌱 I’m currently learning (or want to learn)...
+### 🌱 I’m currently learning (or want to learn)...
 Gatsby.js
 <br />
 TypeScript
