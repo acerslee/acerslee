@@ -33,7 +33,7 @@ Here's a list of what I've currently have experience with.
 <br />
 <br />
 
-### 🌱 I’m currently learning (or want to learn)...
+### 🌱 Here's some things that I want to learn in the upcoming future...
 SASS
 <br />
 Gatsby.js
