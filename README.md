@@ -43,7 +43,6 @@ Next.js
 <br />
 TypeScript
 <br />
-Firebase
 
 #### 📫 How to reach me: ...
 Email: ahjlee712@gmail.com
