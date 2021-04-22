@@ -44,7 +44,9 @@ Here's a list of what I've currently have experience with.
   </tr>
   <tr>
     <td>Hosting</td>
-    <td><img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-%230080FF?&style=for-the-badge&logo=DigitalOcean&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/> </td>
+    <td>
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td>Databases</td>
