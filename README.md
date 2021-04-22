@@ -57,10 +57,6 @@ Here's a list of what I've currently have experience with.
     <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/></td>
   </tr>
   <tr>
-  <td>APIs</td>
-  <td><img alt="GoogleOAuth2.0" src="https://img.shields.io/badge/-GoogleOAuth2.0-white?&style=for-the-badge&logo=google&logoColor=blue"/> <img alt="Google Calendar API" src="https://img.shields.io/badge/-Google%20Calendar%20API-%234285F4?&style=for-the-badge&logo=google-calendar&logoColor=white"/> <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-black?&style=for-the-badge&logo=json-web-tokens&logoColor=white"/></td>
-  </tr>
-  <tr>
     <td>Testing</td>
     <td><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/></td>
   </tr>
