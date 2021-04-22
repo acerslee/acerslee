@@ -18,7 +18,7 @@ Here's a list of what I've currently have experience with.
     <td>Hosting</td>
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/>
-      <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=firebase&logoColor=white"/>
     </td>
   </tr>
   <tr>
