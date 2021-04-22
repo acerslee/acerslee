@@ -23,7 +23,11 @@ Here's a list of what I've currently have experience with.
   </tr>
   <tr>
     <td>Databases</td>
-    <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/></td>
+    <td>
+      <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
+      <img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+      <img alt="MySQL" src ="https://img.shields.io/badge/-MySQL-%23336791?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td>Testing</td>
