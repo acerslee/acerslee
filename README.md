@@ -40,7 +40,13 @@ Here's a list of what I've currently have experience with.
   </tr>
   <tr>
     <td>Frameworks & Libraries</td>
-    <td><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="Tailwind Css" src="https://img.shields.io/badge/-Tailwind%20Css-%2338B2AC?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="Material Ui" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white"/></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+      <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%230081CB?&style=for-the-badge&logo=gatsby&logoColor=white"/>
+      <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
+      <img alt="Material Ui" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+      
+    </td>
   </tr>
   <tr>
     <td>Hosting</td>
