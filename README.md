@@ -10,7 +10,7 @@ Here's a list of what I've currently have experience with.
     <td>Frameworks & Libraries</td>
     <td>
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-      <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%230081CB?&style=for-the-badge&logo=gatsby&logoColor=white"/>
+      <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-blueviolet?&style=for-the-badge&logo=gatsby&logoColor=white"/>
       <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
       <img alt="Material Ui" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   </tr>
@@ -18,6 +18,7 @@ Here's a list of what I've currently have experience with.
     <td>Hosting</td>
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
   </tr>
   <tr>
