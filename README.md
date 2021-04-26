@@ -46,7 +46,7 @@ TypeScript
 #### 📫 How to reach me: ...
 Email: ahjlee712@gmail.com
 <br />
-LinkedIn: https://www.linkedin.com/in/alexander-lee-35351374/
+LinkedIn: https://www.linkedin.com/in/alexanderhjlee/
 <!--
 **acerslee/acerslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
