@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello There 👋
 Here's a list of what I've currently have experience with.
 
 <table>
