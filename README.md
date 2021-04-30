@@ -19,6 +19,7 @@ Here's a list of what I've currently have experience with.
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/>
       <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=firebase&logoColor=white"/>
+      <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-turquoise?&style=for-the-badge&logo=netlify&logoColor=white"/>
     </td>
   </tr>
   <tr>
