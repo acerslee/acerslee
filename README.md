@@ -47,8 +47,6 @@ GraphQL
 <br />
 Next.js
 <br />
-TypeScript
-<br />
 
 #### 📫 How to reach me: ...
 Email: ahjlee712@gmail.com
