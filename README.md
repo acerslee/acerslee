@@ -45,6 +45,10 @@ Here's a list of what I've currently have experience with.
 ### 🌱 Here's some things that I want to learn in the upcoming future...
 GraphQL
 <br />
+Python
+<br />
+Go
+<br />
 Next.js
 <br />
 
