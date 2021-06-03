@@ -26,7 +26,7 @@ Here's a list of what I've currently have experience with.
       <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=firebase&logoColor=white"/>
       <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-turquoise?&style=for-the-badge&logo=netlify&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?&style=for-the-badge&logo=docker&logoColor=white"/>
-      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-violet?&style=for-the-badge&logo=heroku&logoColor=white"/>
+      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-blueviolet?&style=for-the-badge&logo=heroku&logoColor=white"/>
     </td>
   </tr>
   <tr>
