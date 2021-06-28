@@ -1,6 +1,6 @@
 ### Hello There 👋 I'm Alex, a Software Engineer based out of New York City
 
-
+I'm an engineer that's curious about how web technologies work, and always exploring new solutions and techniques to use when building applications. Besides coding, I love to be adventurous with other things, such as trying new food, photography, and doing physical activities like working out, hiking, and basketball.
 
 Here's a list of what I've currently have experience with.
 
