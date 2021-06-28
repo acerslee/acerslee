@@ -1,4 +1,7 @@
 ### Hello There 👋 I'm Alex, a Software Engineer based out of New York City
+
+
+
 Here's a list of what I've currently have experience with.
 
 <table>
@@ -39,7 +42,7 @@ Here's a list of what I've currently have experience with.
   </tr>
 </table>
 
-### 🌱 Here's some things that I want to learn in the upcoming future...
+### 🌱 Some tools I want to learn in the future
 GraphQL
 <br />
 Python
@@ -47,10 +50,12 @@ Python
 Go
 <br />
 
-#### 📫 How to reach me: ...
+#### 📫 Get in Touch!
 Email: ahjlee712@gmail.com
 <br />
 LinkedIn: https://www.linkedin.com/in/alexanderhjlee/
+<br />
+Personal portfolio: https://www.alexanderhjlee.com
 <!--
 **acerslee/acerslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
