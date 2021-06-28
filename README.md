@@ -1,4 +1,4 @@
-### Hello There 👋
+### Hello There 👋 I'm Alex, a Software Engineer based out of New York City
 Here's a list of what I've currently have experience with.
 
 <table>
