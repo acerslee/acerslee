@@ -37,10 +37,6 @@ Here's a list of what I've currently have experience with.
       <img alt="MySQL" src ="https://img.shields.io/badge/-MySQL-%23336791?&style=for-the-badge&logo=MySQL&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td>Testing</td>
-    <td><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/></td>
-  </tr>
 </table>
 
 ### 🌱 Here's some things that I want to learn in the upcoming future...
