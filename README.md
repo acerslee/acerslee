@@ -17,7 +17,7 @@ Here's a list of what I've currently have experience with.
   <tr>
     <td>Frameworks/Libraries/Environment</td>
     <td>
-      <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%23323330.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+      <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
       <img alt="NodeJS" src="https://img.shields.io/badge/nodejs%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
       <img alt="Express.js" src="https://img.shields.io/badge/express%20-%23404d59.svg?&style=for-the-badge"/> 
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
