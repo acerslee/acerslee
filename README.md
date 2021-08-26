@@ -44,9 +44,11 @@ Here's a list of what I've currently have experience with.
   </tr>
 </table>
 
-### 🌱 Some tools I want to learn in the future
+
+### 🔭 I’m currently working on ...
 GraphQL
-<br />
+
+### 🌱 Some tools I want to learn in the future
 Python
 <br />
 Go
@@ -63,7 +65,7 @@ Personal portfolio: https://www.alexanderhjlee.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
