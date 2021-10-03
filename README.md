@@ -47,13 +47,13 @@ Here's a list of what I've currently have experience with.
 
 ### 🔭 I’m currently working on ...
 GraphQL
+<br />
+Python/Django
 
 ### 🌱 Some tools I want to learn in the future
 React Native
 <br />
-Python
-<br />
-Go
+Golang
 <br />
 
 #### 📫 Get in Touch!
