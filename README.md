@@ -49,6 +49,8 @@ Here's a list of what I've currently have experience with.
 GraphQL
 <br />
 Python/Django
+<br />
+Shopify Dev Tools
 
 ### 🌱 Some tools I want to learn in the future
 React Native
