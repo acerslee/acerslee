@@ -50,11 +50,9 @@ GraphQL
 <br />
 Python/Django
 <br />
-Shopify Dev Tools
+React Native
 
 ### 🌱 Some tools I want to learn in the future
-React Native
-<br />
 Golang
 <br />
 
