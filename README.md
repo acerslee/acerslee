@@ -24,7 +24,7 @@ Here's a list of what I've currently have experience with.
       <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
       <img alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=blueviolet"/> 
       <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-blueviolet?&style=for-the-badge&logo=gatsby&logoColor=white"/>
-      <img alt="Next" src="https://img.shields.io/badge/next-black?&style=for-the-badge&logo=nexty&logoColor=white"/>
+      <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </tr>
   <tr>
     <td>Hosting</td>
